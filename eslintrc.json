@@ -1,0 +1,11 @@
+{
+  "extends": ["standard", "standard-jsx"],
+  "rules": {
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-extra-semi": "off",
+    "jsx-quotes": ["error", "prefer-single"],
+    "space-before-function-paren": "off",
+    "jsx-space-before-function-paren": "off"
+  }
+}
